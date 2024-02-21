@@ -1,5 +1,4 @@
-- 👋 Hello, I am @Chris-Rextus. I ain't nobody too special and I'm not into pretending the opposite. Instead, I'm just saying I'm a Computer Science student that, once entered this area not too much time ago and
-don't know much about anything, am desperate for learning the fastest I can. Creating this GitHub account is part of the process.
+- 👋 Hello, I am @Chris-Rextus. I'm a student of Mathematics, Computer Engineering and Physics.
 
 - 👀 I’m interested in pretty much everything. From Phylosophy to Math, and from Neurology to AI.
   
