@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in pretty much everything. From Phylosophy to Math, and from Neurology to AI.
   
-- 🌱 I’m currently learning Computer Science at Federal University of São Carlos, in São Paulo, Brazil.
+- 🌱 I’m currently learning Computer Engineering at Federal University of São Carlos, in São Paulo, Bostil.
   
 - 💞️ I’m looking to collaborate on anything that can make me grow. Please, give me something to work with if your reading this.
   
